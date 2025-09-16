@@ -1,0 +1,229 @@
+@media(max-width:701px) {
+    /* .sched-person {
+        width:100%;
+        min-height:100px;
+        padding-bottom:40px;
+        clear:left;
+    }
+     .sched-person {
+        width:100%;
+        min-height:100px;
+        padding-bottom:40px;
+        clear:left;
+    } */
+    .schedorg-body-feedback .sched-container {
+        margin: -1px 0 0 0;
+        overflow: auto;
+    }
+     .schedorg-body-feedback .survey {
+        margin: 0;
+        padding:0;
+    }
+     .schedorg-body-feedback .survey textarea {
+        width:90%;
+    }
+     .schedorg-body-feedback .sched-container-header {
+        margin:0;
+    }
+     #profile-onboarding-mobile{
+        margin:20px 0;
+        text-align:center;
+    }
+     #sched-confirm-schedule{
+        display:none!important;
+    }
+     #sched-header-message{
+        margin:20px 0;
+    }
+     #sched-page-settings #sched-content .onboard-step{
+        margin:0 10px 10px;
+        padding:0;
+        width:100%;
+    }
+     #sched-page-settings #sched-content h2{
+        margin-bottom:10px;
+    }
+     #sched-page-settings #sched-content label.switch,#sched-page-settings .sched-settings-left,#sched-page-settings .sched-settings-right{
+        margin:0 10px;
+    }
+     #sched-page-settings textarea{
+        margin-bottom:20px;
+    }
+     #sched-page-settings-save{
+        clear:both;
+    }
+     #schedorg-header-menu1,#schedorg-header-signup,#sched-container-header-menu,#schedorg-header-expired,#profile-onboarding,.schedorg-body-me #sched-header-message,#sched-sidebar-outer,.schedorg-body-event #sched-header-message,#sched-page-me-name .sched-button,#sched-menu-login{
+        display:none;
+    }
+     #schedorg-mobile-link{
+        color:#fff;
+        line-height:60px;
+    }
+     #schedorg-mobile-menu{
+        height:60px;
+        display:block;
+    }
+     #schedorg-mobile-menu ul{
+        border-radius:0;
+        -moz-border-radius-bottomright:5px;
+        -webkit-border-bottom-right-radius:5px;
+        background:#212B34;
+        border:0;
+        border-bottom-right-radius:5px;
+        margin-top:-5px;
+    }
+     #schedorg-mobile-menu ul li{
+        text-align:left;
+    }
+     #schedorg-mobile-menu ul li a{
+        color:#fff;
+        display:block;
+        line-height:3em;
+    }
+     #schedorg-mobile-menu-left{
+        color:#fff;
+        height:60px;
+        left:0;
+        position:absolute;
+        top:0;
+        width:60px;
+    }
+     #schedorg-mobile-menu-right{
+        height:60px;
+        line-height:60px;
+        position:absolute;
+        right:0;
+        top:0;
+    }
+     #schedorg-mobile-menu-right a{
+        color:#fff;
+        margin-right:10px;
+    }
+     .col-md-9,
+     .col-md-12{
+        float:none;
+        padding:0!important;
+        width:100%;
+    }
+     .item-toggle{
+        font-size:14px;
+        line-height:24px;
+        margin:0 0 20px;
+        text-indent:0;
+    }
+     .sched-container-header,#sched-page-me-schedule{
+        
+    }
+    /*  .sched-container-wide,.row{
+        margin:0 auto!important;
+    } */
+     #sched-sidebar-search {
+        padding-top:20px;
+    }
+     .event a {
+        padding:5px 10px;
+    }
+     .event, .event .name {
+        float:none;
+        display:block;
+    }
+     #sched-container-header-menu li.sched-share {
+        display:none;
+    }
+    .list-simple h3 {
+         margin-top:7px;
+    }
+     #schedorg #sched-logo h1 a {
+        font-size:25px;
+        line-height:30px;
+    }
+     #sched-menu-search .dropdown-menu{
+         left:-100px !important;
+    }
+     #sched-menu-search .popover-content .arrow {
+        margin-left:110px !important;
+    }
+     #tip {
+        width:370px !important;
+        left:0 !important;
+    }
+     .sched-container {
+        border:0;
+        margin:0
+    }
+     .sched-container-inner {
+        padding:10px 0
+    }
+     #schedorg-mobile-shoutout {
+        display:block;
+    }
+    /*#schedorg-header-teaser, #schedorg-header-signup, #schedorg-header-menu1 {
+        display:none
+    }
+    */
+     #sched-page-home .sched-container-header, #sched-page-list .sched-container-header {
+        margin-left:0;
+    }
+    .list-simple h3 {
+         clear: none;
+        text-align:left;
+        font-size:15px;
+        float:none;
+        margin:20px 0 5px;
+        width: auto !important;
+        color:rgba(0,0,0,.70);
+        font-weight:500;
+    }
+    .list-simple h3 {
+        float: none;
+    }
+     #sched-page-home .sched-container-inner, #sched-page-list .sched-container-inner {
+        padding-bottom:0;
+    }
+     #sched-page-event .sched-container {
+        padding:0;
+    }
+     #sched-container-header-menu .sched-share {
+        margin:10px 8px 0 0;
+    }
+     /* .sched-person {
+        width:100%;
+        min-height:100px;
+        padding-bottom:40px;
+    } */
+    #sched-overlay-inner {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-flow: column;
+      width: auto;
+      margin: 0;
+      top: 0px;
+      left: 10px;
+      bottom: 40px;
+      right: 10px;
+      overflow-y: scroll;
+  }
+  
+  /* .schedorg-hideheader #schedorg-header-admin {
+    right: auto;
+    left: 0;
+  } */
+  
+  /* .schedorg-hideheader #schedorg-header-admin .dropdown-menu.pull-right {
+    float: left!important;
+    right: auto;
+    left: 0;
+  } */
+  
+  /*a.sched-past-date, a.sched-past-date-link {
+    width: 100%;
+    padding: 10px;
+    margin: 0 0 20px 0;
+  }*/
+  .sched-container-expired { margin-top: 20px }
+  #sched-content-inner #custom_content_ticket_types_container {
+    width: unset;
+    margin: 20px 10px;
+  }
+}
